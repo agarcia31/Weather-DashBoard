@@ -1,0 +1,83 @@
+/* Header */
+header {
+    color: black;
+    text-align: center;
+    width: 100%;
+}
+.header-title {
+    font-size: 100px;
+    padding: 50px;
+    background-color: #B200FF;
+}
+/* Search Bar */
+.search-title{
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+.search-city{
+    padding-left: 15%;
+}
+.search-bar-text {
+    align-items: center;
+    margin-left:40%;
+    height: 40px;
+    width: 20%;
+}
+
+.current-status {
+    text-align: center;
+    font-size: 59px;
+    padding: 3%;
+    border-radius: none;
+    border: solid black;
+    background-color: #B200FF;
+}
+.button-style {
+    color: black;
+    margin-bottom: 10px;
+    border: solid white;
+    background-color: #B200FF;
+    width: 33%;
+    height: 100px;
+    margin: auto;
+    border: solid 6px black;
+}
+
+/* 5 day forecast */
+.five-day-forecast {
+    padding-left: 84px;
+}
+
+.five-day-forecast-title {
+    padding: 2px;
+    font-size: 55px;
+    font-weight: bold;
+    margin-left: 70px;
+}
+.btn-class-top {
+    padding: 60px;
+}
+.btn-class {
+    width: 29%;
+    height: 58px;
+    margin-left: 35%;
+    padding-top: 10px;
+}
+
+.side-div {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* 5 Day Weather Cards */
+.card-elements{
+    color: black;
+    background-color: #B200FF;
+    margin: 15px;
+    width: 450px;
+}
+
+.status-data{
+    font-size: 55px;
+}
